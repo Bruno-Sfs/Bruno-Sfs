@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, mundo! 👋 Eu sou o Bruno.
 
-<!--
-**Bruno-Sfs/Bruno-Sfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou cursando **Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul e sou apaixonado por como a tecnologia pode ser usada para resolver problemas reais.
 
-Here are some ideas to get you started:
+Atualmente, estou mergulhando nos fundamentos do desenvolvimento de software e construindo meus primeiros projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que estou aprendendo:
+* **Cloud** Certificado AWS Practitioner
+* **Linguagens:** Python, java
+* **Ferramentas:** Git, GitHub, VS Code
+* **Conceitos:** Lógica de Programação, Manipulação de Arquivos, Controle de Versão
+
+### 📫 Como me encontrar:
+* **LinkedIn:** [https://www.linkedin.com/in/bruno-silva-139a20367](https://www.linkedin.com/in/bruno-silva-139a20367)
+
+Obrigado pela visita!
